@@ -77,6 +77,7 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
 ```
 ### 部署到heroku服务器
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/chen-7-c/siteproxy)
 1. 注册一个heroku账户: https://www.heroku.com/
 2. 没有github账户的话, 注册一个github账户,fork本repo
 3. 在heroku的控制台里面创建一个应用, 且绑定到你刚才fork的repo上, 会得到一个域名类似的域名:your-domain-name.herokuapp.com
